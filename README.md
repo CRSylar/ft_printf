@@ -1,4 +1,6 @@
 # ft_printf
+![Cromalde's 42Project Score](https://badge42.herokuapp.com/api/project/cromalde/ft_printf)
+
 reproducing the printf C function for a 42 project
 
 My ft_printf version for the 42 school project, graded 102/100 by Moulinette
